@@ -43,6 +43,7 @@ clean:
 extract:
 	mkdir -p /tmp/installdir-$(NAME)-$(VERSION);
 	wget -O /tmp/installdir-$(NAME)-$(VERSION)/docker-compose https://github.com/docker/compose/releases/download/$(VERSION)/docker-compose-Linux-x86_64
+	cd /tmp/installdir-$(NAME)-$(VERSION) && ln -s docker-compose compose
 
 #-------------------------------------------------------------------------------
 
@@ -71,6 +72,7 @@ package:
 		--rpm-auto-add-directories \
 		--template-scripts \
 		docker-compose \
+		compose \
 	;
 
 #-------------------------------------------------------------------------------
