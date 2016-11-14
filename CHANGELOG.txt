@@ -1,0 +1,3 @@
+* Mon Nov 14 2016 Ryan Parman <ryan@ryanparman.com> 1.8.1-1
+- Initial build of the RPM.
+- Bundles Docker Compose 1.8.1.
