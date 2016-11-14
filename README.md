@@ -1,8 +1,8 @@
-# package-hub
+# package-docker-compose
 
-Hub is a command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier. <https://hub.github.com>
+Docker Compose is a tool for defining and running multi-container Docker applications. <https://docs.docker.com/compose/>
 
-See <https://github.com/github/hub/releases> for releases.
+See <https://github.com/docker/compose/releases> for releases.
 
 ## Generating the RPM package
 
