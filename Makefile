@@ -1,5 +1,5 @@
 NAME=docker-compose
-VERSION=1.8.1
+VERSION=1.9.0
 EPOCH=1
 ITERATION=1
 PREFIX=/usr/local/bin
