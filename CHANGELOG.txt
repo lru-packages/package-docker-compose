@@ -1,3 +1,6 @@
+* Wed Feb 22 2017 Ryan Parman <ryan@ryanparman.com> 1.11.2-1
+- Bundles Docker Compose 1.11.2.
+
 * Fri Feb 10 2017 Ryan Parman <ryan@ryanparman.com> 1.11.1-1
 - Bundles Docker Compose 1.11.1.
 
