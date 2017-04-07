@@ -1,5 +1,5 @@
 NAME=docker-compose
-VERSION=1.11.2
+VERSION=1.12.0
 ITERATION=1.lru
 PREFIX=/usr/local/bin
 LICENSE=BSD
