@@ -1,3 +1,6 @@
+* Wed Mar 7 2018 Ryan Parman <ryan@ryanparman.com> 1.19.0-1
+- Bundles Docker Compose 1.19.0.
+
 * Thu Nov 16 2017 Ryan Parman <ryan@ryanparman.com> 1.17.1-1
 - Bundles Docker Compose 1.17.1.
 
